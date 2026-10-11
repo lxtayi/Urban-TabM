@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "development_seed": 11,
+  "confirmation_seeds": [
+    23,
+    37
+  ],
+  "activation_rule": {
+    "100": 0.0,
+    "300": 0.5,
+    "1000": 0.5
+  },
+  "rule_frozen_without_using_seed_23_or_37_test_results": true,
+  "test_labels_used_for_training_or_task_specific_routing": false,
+  "note": "The 100-label fallback is a declared applicability safeguard, not a claimed routing gain."
+}

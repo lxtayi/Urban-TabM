@@ -1,0 +1,77 @@
+region,reference_class,state,n
+beijing,0,Both correct,425
+beijing,0,Both incorrect,42
+beijing,0,Corrected,7
+beijing,1,Both correct,85
+beijing,1,Both incorrect,111
+beijing,1,Corrected,2
+beijing,1,Newly incorrect,3
+beijing,2,Both correct,88
+beijing,2,Both incorrect,83
+beijing,2,Corrected,2
+beijing,2,Newly incorrect,6
+beijing,3,Both correct,165
+beijing,3,Both incorrect,54
+beijing,3,Corrected,3
+beijing,3,Newly incorrect,1
+beijing,4,Both correct,216
+beijing,4,Both incorrect,49
+beijing,4,Corrected,2
+beijing,4,Newly incorrect,1
+tianjin,0,Both correct,414
+tianjin,0,Both incorrect,65
+tianjin,0,Corrected,5
+tianjin,1,Both correct,25
+tianjin,1,Both incorrect,70
+tianjin,1,Corrected,1
+tianjin,1,Newly incorrect,1
+tianjin,2,Both correct,60
+tianjin,2,Both incorrect,45
+tianjin,2,Newly incorrect,2
+tianjin,3,Both correct,434
+tianjin,3,Both incorrect,90
+tianjin,3,Corrected,3
+tianjin,3,Newly incorrect,3
+tianjin,4,Both correct,391
+tianjin,4,Both incorrect,34
+tianjin,4,Corrected,1
+tianjin,4,Newly incorrect,2
+shanghai,0,Both correct,1178
+shanghai,0,Both incorrect,670
+shanghai,0,Corrected,11
+shanghai,0,Newly incorrect,6
+shanghai,1,Both correct,133
+shanghai,1,Both incorrect,126
+shanghai,1,Corrected,4
+shanghai,1,Newly incorrect,7
+shanghai,2,Both correct,163
+shanghai,2,Both incorrect,114
+shanghai,2,Corrected,2
+shanghai,2,Newly incorrect,2
+shanghai,3,Both correct,496
+shanghai,3,Both incorrect,323
+shanghai,3,Corrected,27
+shanghai,3,Newly incorrect,2
+shanghai,4,Both correct,282
+shanghai,4,Both incorrect,75
+shanghai,4,Corrected,3
+shanghai,4,Newly incorrect,4
+prd,0,Both correct,440
+prd,0,Both incorrect,75
+prd,0,Corrected,8
+prd,0,Newly incorrect,1
+prd,1,Both correct,123
+prd,1,Both incorrect,186
+prd,1,Corrected,4
+prd,1,Newly incorrect,6
+prd,2,Both correct,163
+prd,2,Both incorrect,67
+prd,2,Corrected,1
+prd,2,Newly incorrect,1
+prd,3,Both correct,713
+prd,3,Both incorrect,304
+prd,3,Corrected,23
+prd,3,Newly incorrect,12
+prd,4,Both correct,296
+prd,4,Both incorrect,86
+prd,4,Corrected,13

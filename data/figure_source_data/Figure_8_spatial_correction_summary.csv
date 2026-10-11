@@ -1,0 +1,17 @@
+region,state,n,percent
+beijing,Both correct,979,72.78810408921933
+beijing,Corrected,16,1.1895910780669146
+beijing,Newly incorrect,11,0.8178438661710037
+beijing,Both incorrect,339,25.20446096654275
+tianjin,Both correct,1324,80.4374240583232
+tianjin,Corrected,10,0.6075334143377886
+tianjin,Newly incorrect,8,0.48602673147023084
+tianjin,Both incorrect,304,18.469015795868774
+shanghai,Both correct,2252,62.07276736493936
+shanghai,Corrected,47,1.2954796030871003
+shanghai,Newly incorrect,21,0.5788313120176406
+shanghai,Both incorrect,1308,36.0529217199559
+prd,Both correct,1735,68.79460745440127
+prd,Corrected,49,1.9429024583663759
+prd,Newly incorrect,20,0.7930214115781126
+prd,Both incorrect,718,28.46946867565424

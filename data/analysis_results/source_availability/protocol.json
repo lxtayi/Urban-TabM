@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "label_budget": 1000,
+  "seeds": [
+    11,
+    23,
+    37
+  ],
+  "tasks": 27,
+  "conditions": {
+    "complete": [
+      "All",
+      "Image",
+      "Physical",
+      "Physical_Image",
+      "Physical_POI",
+      "POI_Image"
+    ],
+    "without_physical": [
+      "POI_Image",
+      "Image"
+    ],
+    "without_poi": [
+      "Physical_Image",
+      "Physical",
+      "Image"
+    ],
+    "without_image": [
+      "Physical_POI",
+      "Physical"
+    ]
+  },
+  "router": "same CMCR loss, width, temperature, prior and residual strength as the final model",
+  "interpretation": "source-availability reconfiguration; unavailable-source experts are removed before router fitting",
+  "test_labels_used_for_router_training_or_model_selection": false
+}

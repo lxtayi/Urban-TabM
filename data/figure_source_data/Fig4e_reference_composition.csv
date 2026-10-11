@@ -1,0 +1,21 @@
+region,class,share
+beijing,Residential,0.3524163568773234
+beijing,Commercial,0.14944237918215614
+beijing,Public service,0.13308550185873605
+beijing,Industrial,0.1657992565055762
+beijing,Agricultural,0.19925650557620816
+tianjin,Residential,0.29404617253948967
+tianjin,Commercial,0.058930741190765495
+tianjin,Public service,0.06500607533414338
+tianjin,Industrial,0.3219927095990279
+tianjin,Agricultural,0.2600243013365735
+shanghai,Residential,0.5140573318632855
+shanghai,Commercial,0.07442116868798236
+shanghai,Public service,0.07745314222712238
+shanghai,Industrial,0.23373759647188533
+shanghai,Agricultural,0.10033076074972437
+prd,Residential,0.20777160983346551
+prd,Commercial,0.12648691514670896
+prd,Public service,0.09199048374306107
+prd,Industrial,0.41712926249008725
+prd,Agricultural,0.15662172878667724

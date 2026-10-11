@@ -1,0 +1,4 @@
+model,trainable_parameters,model_size_mb_fp32,training_seconds_reference_task,inference_ms_per_1000,note
+TabM-PLE backbone,658784,2.5130615234375,,,single backbone profile
+All-source HEA expert,982224,3.74688720703125,249.202774999998,48.92735208650495,"single expert, spatial0 seed11 n1000"
+Urban-TabM-CMCR inference stack,4690694,17.893577575683594,636.2724813325767,115.710717756361,"six final experts plus 1,766-parameter router; sequential wall-clock estimate"

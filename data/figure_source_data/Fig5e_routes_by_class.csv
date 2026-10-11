@@ -1,0 +1,31 @@
+class,expert,weight
+Residential,All sources,0.19761612491132893
+Residential,Image,0.19275181947099582
+Residential,Physical,0.10040341450200865
+Residential,Physical + image,0.1806370520289216
+Residential,Physical + POI,0.12913141722691002
+Residential,POI + image,0.19946017059544005
+Commercial,All sources,0.2300902794093196
+Commercial,Image,0.1608121562560153
+Commercial,Physical,0.12149561709895512
+Commercial,Physical + image,0.1553861441294397
+Commercial,Physical + POI,0.14445753248876722
+Commercial,POI + image,0.18775827309962997
+Public service,All sources,0.28866339278627695
+Public service,Image,0.12566881538724273
+Public service,Physical,0.08757947420104592
+Public service,Physical + image,0.10778667343004102
+Public service,Physical + POI,0.1734542728836493
+Public service,POI + image,0.21684737211659794
+Industrial,All sources,0.2208170003998046
+Industrial,Image,0.1666172083117604
+Industrial,Physical,0.13581758990211226
+Industrial,Physical + image,0.17705501143775298
+Industrial,Physical + POI,0.13283759424244565
+Industrial,POI + image,0.16685559710679393
+Agricultural,All sources,0.21060355485919416
+Agricultural,Image,0.17335902098886335
+Agricultural,Physical,0.12901230531895078
+Agricultural,Physical + image,0.15685292581461138
+Agricultural,Physical + POI,0.13991422379370203
+Agricultural,POI + image,0.19025796829527597

@@ -1,0 +1,25 @@
+region,expert,weight,expert_key
+beijing,All sources,0.2263501579488963,All
+beijing,Image,0.1819663842676075,Image
+beijing,Physical,0.1014337062683358,Physical
+beijing,Physical + image,0.1656618136137059,Physical_Image
+beijing,Physical + POI,0.1254206929878646,Physical_POI
+beijing,POI + image,0.1991672429730457,POI_Image
+tianjin,All sources,0.2292787465962829,All
+tianjin,Image,0.1734535052177393,Image
+tianjin,Physical,0.1161172978499653,Physical
+tianjin,Physical + image,0.1643657923403353,Physical_Image
+tianjin,Physical + POI,0.1308216389754101,Physical_POI
+tianjin,POI + image,0.185963017890911,POI_Image
+shanghai,All sources,0.2037277814029595,All
+shanghai,Image,0.1750245763434563,Image
+shanghai,Physical,0.1115771731656443,Physical
+shanghai,Physical + image,0.1730277210950457,Physical_Image
+shanghai,Physical + POI,0.1436283669225017,Physical_POI
+shanghai,POI + image,0.1930143810447219,POI_Image
+prd,All sources,0.2250003183436337,All
+prd,Image,0.1654339871730457,Image
+prd,Physical,0.1306385485345348,Physical
+prd,Physical + image,0.160738866702372,Physical_Image
+prd,Physical + POI,0.1387046062403036,Physical_POI
+prd,POI + image,0.1794836752022144,POI_Image

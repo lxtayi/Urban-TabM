@@ -1,0 +1,49 @@
+{
+  "status": "complete",
+  "internal_calibration_tasks": 108,
+  "external_calibration_city_seed_rows": 36,
+  "uniform_comparison_statistical_unit": "outer spatial fold or held-out region after averaging seeds",
+  "uniform_definition": "0.5 all-source HEA + 0.5 mean of six expert probabilities",
+  "test_labels_used_for_calibration_or_tuning": false,
+  "strict_uniform_results": [
+    {
+      "scope": "spatial",
+      "n_geographic_units": 5,
+      "mean_delta_pp": 0.07739339802113723,
+      "sd_delta_pp": 0.19335837567017664,
+      "median_delta_pp": 0.010300439241806014,
+      "ci95_low_pp": -0.05303516852737111,
+      "ci95_high_pp": 0.23432467972788196,
+      "positive_units": 3,
+      "worst_unit_delta_pp": -0.12908411005773482,
+      "paired_t_one_sided_p": 0.21068657535530713,
+      "wilcoxon_one_sided_p": 0.3125
+    },
+    {
+      "scope": "regional",
+      "n_geographic_units": 4,
+      "mean_delta_pp": 0.0964469187554079,
+      "sd_delta_pp": 0.16197555715360787,
+      "median_delta_pp": 0.09385548117693543,
+      "ci95_low_pp": -0.04886823589296355,
+      "ci95_high_pp": 0.24435351098225178,
+      "positive_units": 3,
+      "worst_unit_delta_pp": -0.09914124981527846,
+      "paired_t_one_sided_p": 0.1596685662416111,
+      "wilcoxon_one_sided_p": 0.1875
+    },
+    {
+      "scope": "all",
+      "n_geographic_units": 9,
+      "mean_delta_pp": 0.08586162945859085,
+      "sd_delta_pp": 0.16921319290664158,
+      "median_delta_pp": 0.0857601564798897,
+      "ci95_low_pp": -0.012984651714780738,
+      "ci95_high_pp": 0.19430569576025516,
+      "positive_units": 6,
+      "worst_unit_delta_pp": -0.12908411005773482,
+      "paired_t_one_sided_p": 0.08322195014252867,
+      "wilcoxon_one_sided_p": 0.125
+    }
+  ]
+}

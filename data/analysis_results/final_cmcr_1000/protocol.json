@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "tasks": 27,
+  "seeds": [
+    11,
+    23,
+    37
+  ],
+  "spatial_tasks": 15,
+  "transfer_tasks": 12,
+  "configuration_frozen_before_confirmation": true,
+  "test_labels_used_for_model_training_or_selection": false,
+  "bootstrap_replicates": 100000
+}

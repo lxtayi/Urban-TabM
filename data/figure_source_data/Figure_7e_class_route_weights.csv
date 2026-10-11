@@ -1,0 +1,31 @@
+class,expert,weight,expert_key
+Residential,All sources,0.1976161249113289,All
+Residential,Image,0.1927518194709958,Image
+Residential,Physical,0.1004034145020086,Physical
+Residential,Physical + image,0.1806370520289216,Physical_Image
+Residential,Physical + POI,0.12913141722691,Physical_POI
+Residential,POI + image,0.19946017059544,POI_Image
+Commercial,All sources,0.2300902794093196,All
+Commercial,Image,0.1608121562560153,Image
+Commercial,Physical,0.1214956170989551,Physical
+Commercial,Physical + image,0.1553861441294397,Physical_Image
+Commercial,Physical + POI,0.1444575324887672,Physical_POI
+Commercial,POI + image,0.1877582730996299,POI_Image
+Public service,All sources,0.2886633927862769,All
+Public service,Image,0.1256688153872427,Image
+Public service,Physical,0.0875794742010459,Physical
+Public service,Physical + image,0.107786673430041,Physical_Image
+Public service,Physical + POI,0.1734542728836493,Physical_POI
+Public service,POI + image,0.2168473721165979,POI_Image
+Industrial,All sources,0.2208170003998046,All
+Industrial,Image,0.1666172083117604,Image
+Industrial,Physical,0.1358175899021122,Physical
+Industrial,Physical + image,0.1770550114377529,Physical_Image
+Industrial,Physical + POI,0.1328375942424456,Physical_POI
+Industrial,POI + image,0.1668555971067939,POI_Image
+Agricultural,All sources,0.2106035548591941,All
+Agricultural,Image,0.1733590209888633,Image
+Agricultural,Physical,0.1290123053189507,Physical
+Agricultural,Physical + image,0.1568529258146113,Physical_Image
+Agricultural,Physical + POI,0.139914223793702,Physical_POI
+Agricultural,POI + image,0.1902579682952759,POI_Image

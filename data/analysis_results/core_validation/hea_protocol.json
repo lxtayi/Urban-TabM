@@ -1,0 +1,12 @@
+{
+  "purpose": "targeted HEA component attribution",
+  "budget": 1000,
+  "outer_tasks": 27,
+  "variants": [
+    "without_hierarchy",
+    "without_robustness",
+    "without_region_adversarial"
+  ],
+  "fixed_components": "all-source inputs, preprocessing, TabM-PLE encoder, epochs, optimizer and outer splits",
+  "test_labels_used_for_training_or_selection": false
+}

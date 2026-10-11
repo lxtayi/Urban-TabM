@@ -1,0 +1,29 @@
+{
+  "budget": 300,
+  "seed": 37,
+  "inner_fit": 243,
+  "inner_val": 57,
+  "inner_purged": 0,
+  "training_class_counts": [
+    107,
+    26,
+    32,
+    86,
+    49
+  ],
+  "fit_class_counts": [
+    85,
+    24,
+    27,
+    71,
+    36
+  ],
+  "validation_class_counts": [
+    22,
+    2,
+    5,
+    15,
+    13
+  ],
+  "source_only": true
+}

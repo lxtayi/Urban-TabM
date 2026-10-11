@@ -1,0 +1,44 @@
+{
+  "evaluation_protocol": "leave-one-region-out",
+  "seed": 11,
+  "label_budget": 1000,
+  "selection_notes": "Cases were selected from paired independent test predictions to include three corrections and three newly introduced errors, cover all four development regions and five reference classes, represent varied expert-disagreement levels, and avoid the four parcels shown in Fig. 8.",
+  "cases": [
+    {
+      "panel": "a",
+      "column": "Corrected",
+      "region": "tianjin",
+      "sample_id": "9eed53c56b6d605b2d3ff2590b18d.tif"
+    },
+    {
+      "panel": "b",
+      "column": "Newly incorrect",
+      "region": "shanghai",
+      "sample_id": "47ceea775262587bd7d741349e903.tif"
+    },
+    {
+      "panel": "c",
+      "column": "Corrected",
+      "region": "shanghai",
+      "sample_id": "120715489acccfbe78cb7b76f996f.tif"
+    },
+    {
+      "panel": "d",
+      "column": "Newly incorrect",
+      "region": "prd",
+      "sample_id": "bac3ad667a0a0803f525e4250bb64.tif"
+    },
+    {
+      "panel": "e",
+      "column": "Corrected",
+      "region": "prd",
+      "sample_id": "847b004c800e03636cace288659bb.tif"
+    },
+    {
+      "panel": "f",
+      "column": "Newly incorrect",
+      "region": "beijing",
+      "sample_id": "cf7d66f5cd070eba9698f5609ab29.tif"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+split,protocol,class,model,precision,recall,f1,support,region
+transfer_beijing_seed11_n1000,transfer,Residential,Urban-TabM-CMCR,0.8588469184890656,0.9113924050632912,0.8843398157625384,474,beijing
+transfer_beijing_seed11_n1000,transfer,Commercial,Urban-TabM-CMCR,0.5878378378378378,0.4328358208955223,0.498567335243553,201,beijing
+transfer_beijing_seed11_n1000,transfer,Public service,Urban-TabM-CMCR,0.6521739130434783,0.5027932960893855,0.5678233438485805,179,beijing
+transfer_beijing_seed11_n1000,transfer,Industrial,Urban-TabM-CMCR,0.672,0.7533632286995515,0.7103594080338267,223,beijing
+transfer_beijing_seed11_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7124183006535948,0.8134328358208955,0.759581881533101,268,beijing
+transfer_prd_seed11_n1000,transfer,Residential,Urban-TabM-CMCR,0.7417218543046358,0.8549618320610687,0.7943262411347518,524,prd
+transfer_prd_seed11_n1000,transfer,Commercial,Urban-TabM-CMCR,0.3848484848484848,0.3981191222570533,0.3913713405238829,319,prd
+transfer_prd_seed11_n1000,transfer,Public service,Urban-TabM-CMCR,0.5774647887323944,0.7068965517241379,0.6356589147286822,232,prd
+transfer_prd_seed11_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8421052631578947,0.6996197718631179,0.7642782969885774,1052,prd
+transfer_prd_seed11_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7186046511627907,0.7822784810126582,0.7490909090909091,395,prd
+transfer_shanghai_seed11_n1000,transfer,Residential,Urban-TabM-CMCR,0.9090214067278288,0.6375335120643432,0.7494484714780965,1865,shanghai
+transfer_shanghai_seed11_n1000,transfer,Commercial,Urban-TabM-CMCR,0.3643617021276595,0.5074074074074074,0.4241486068111455,270,shanghai
+transfer_shanghai_seed11_n1000,transfer,Public service,Urban-TabM-CMCR,0.5956678700361011,0.5871886120996441,0.5913978494623656,281,shanghai
+transfer_shanghai_seed11_n1000,transfer,Industrial,Urban-TabM-CMCR,0.7829341317365269,0.6167452830188679,0.6899736147757256,848,shanghai
+transfer_shanghai_seed11_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.2852852852852853,0.782967032967033,0.4181951577402788,364,shanghai
+transfer_tianjin_seed11_n1000,transfer,Residential,Urban-TabM-CMCR,0.933184855233853,0.8657024793388429,0.8981779206859593,484,tianjin
+transfer_tianjin_seed11_n1000,transfer,Commercial,Urban-TabM-CMCR,0.40625,0.268041237113402,0.3229813664596273,97,tianjin
+transfer_tianjin_seed11_n1000,transfer,Public service,Urban-TabM-CMCR,0.6818181818181818,0.5607476635514018,0.6153846153846154,107,tianjin
+transfer_tianjin_seed11_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8152985074626866,0.8245283018867925,0.8198874296435272,530,tianjin
+transfer_tianjin_seed11_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7701375245579568,0.9158878504672896,0.8367129135538954,428,tianjin
+transfer_beijing_seed23_n1000,transfer,Residential,Urban-TabM-CMCR,0.8446969696969697,0.940928270042194,0.8902195608782435,474,beijing
+transfer_beijing_seed23_n1000,transfer,Commercial,Urban-TabM-CMCR,0.5966386554621849,0.3532338308457711,0.44375,201,beijing
+transfer_beijing_seed23_n1000,transfer,Public service,Urban-TabM-CMCR,0.6598639455782312,0.5418994413407822,0.5950920245398773,179,beijing
+transfer_beijing_seed23_n1000,transfer,Industrial,Urban-TabM-CMCR,0.6273764258555133,0.7399103139013453,0.6790123456790124,223,beijing
+transfer_beijing_seed23_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7708333333333334,0.8283582089552238,0.7985611510791367,268,beijing
+transfer_beijing_seed37_n1000,transfer,Residential,Urban-TabM-CMCR,0.8611111111111112,0.9156118143459916,0.8875255623721882,474,beijing
+transfer_beijing_seed37_n1000,transfer,Commercial,Urban-TabM-CMCR,0.5746268656716418,0.3830845771144278,0.4597014925373134,201,beijing
+transfer_beijing_seed37_n1000,transfer,Public service,Urban-TabM-CMCR,0.6621621621621622,0.547486033519553,0.599388379204893,179,beijing
+transfer_beijing_seed37_n1000,transfer,Industrial,Urban-TabM-CMCR,0.6067415730337079,0.726457399103139,0.6612244897959184,223,beijing
+transfer_beijing_seed37_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7602739726027398,0.8283582089552238,0.7928571428571428,268,beijing
+transfer_prd_seed23_n1000,transfer,Residential,Urban-TabM-CMCR,0.7003105590062112,0.8606870229007634,0.7722602739726028,524,prd
+transfer_prd_seed23_n1000,transfer,Commercial,Urban-TabM-CMCR,0.3605263157894737,0.4294670846394984,0.3919885550786838,319,prd
+transfer_prd_seed23_n1000,transfer,Public service,Urban-TabM-CMCR,0.6346153846153846,0.5689655172413793,0.6,232,prd
+transfer_prd_seed23_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8543307086614174,0.6188212927756654,0.7177508269018743,1052,prd
+transfer_prd_seed23_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.6458333333333334,0.8632911392405064,0.7388949079089924,395,prd
+transfer_prd_seed37_n1000,transfer,Residential,Urban-TabM-CMCR,0.7065217391304348,0.8683206106870229,0.7791095890410958,524,prd
+transfer_prd_seed37_n1000,transfer,Commercial,Urban-TabM-CMCR,0.4301075268817204,0.3761755485893417,0.4013377926421405,319,prd
+transfer_prd_seed37_n1000,transfer,Public service,Urban-TabM-CMCR,0.6153846153846154,0.6896551724137931,0.6504065040650406,232,prd
+transfer_prd_seed37_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8530465949820788,0.6787072243346007,0.7559555320275277,1052,prd
+transfer_prd_seed37_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.6374501992031872,0.810126582278481,0.7134894091415831,395,prd
+transfer_shanghai_seed23_n1000,transfer,Residential,Urban-TabM-CMCR,0.8901018922852983,0.6557640750670242,0.7551713491818463,1865,shanghai
+transfer_shanghai_seed23_n1000,transfer,Commercial,Urban-TabM-CMCR,0.3746835443037974,0.5481481481481482,0.4451127819548872,270,shanghai
+transfer_shanghai_seed23_n1000,transfer,Public service,Urban-TabM-CMCR,0.5254777070063694,0.5871886120996441,0.5546218487394958,281,shanghai
+transfer_shanghai_seed23_n1000,transfer,Industrial,Urban-TabM-CMCR,0.7825464949928469,0.6450471698113207,0.7071751777634131,848,shanghai
+transfer_shanghai_seed23_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.3132387706855792,0.728021978021978,0.4380165289256198,364,shanghai
+transfer_shanghai_seed37_n1000,transfer,Residential,Urban-TabM-CMCR,0.8915401301518439,0.6611260053619303,0.7592364532019704,1865,shanghai
+transfer_shanghai_seed37_n1000,transfer,Commercial,Urban-TabM-CMCR,0.4105263157894737,0.4333333333333333,0.4216216216216216,270,shanghai
+transfer_shanghai_seed37_n1000,transfer,Public service,Urban-TabM-CMCR,0.6245059288537549,0.5622775800711743,0.5917602996254682,281,shanghai
+transfer_shanghai_seed37_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8066759388038943,0.6839622641509434,0.7402680280791321,848,shanghai
+transfer_shanghai_seed37_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.2995951417004048,0.8131868131868132,0.4378698224852071,364,shanghai
+transfer_tianjin_seed23_n1000,transfer,Residential,Urban-TabM-CMCR,0.9424778761061948,0.8801652892561983,0.9102564102564102,484,tianjin
+transfer_tianjin_seed23_n1000,transfer,Commercial,Urban-TabM-CMCR,0.373134328358209,0.2577319587628865,0.3048780487804878,97,tianjin
+transfer_tianjin_seed23_n1000,transfer,Public service,Urban-TabM-CMCR,0.67,0.6261682242990654,0.6473429951690821,107,tianjin
+transfer_tianjin_seed23_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8376237623762376,0.7981132075471699,0.8173913043478261,530,tianjin
+transfer_tianjin_seed23_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7662835249042146,0.9345794392523364,0.8421052631578947,428,tianjin
+transfer_tianjin_seed37_n1000,transfer,Residential,Urban-TabM-CMCR,0.9388646288209608,0.8884297520661157,0.9129511677282378,484,tianjin
+transfer_tianjin_seed37_n1000,transfer,Commercial,Urban-TabM-CMCR,0.5,0.3402061855670103,0.4049079754601227,97,tianjin
+transfer_tianjin_seed37_n1000,transfer,Public service,Urban-TabM-CMCR,0.6442307692307693,0.6261682242990654,0.6350710900473934,107,tianjin
+transfer_tianjin_seed37_n1000,transfer,Industrial,Urban-TabM-CMCR,0.8613445378151261,0.7735849056603774,0.8151093439363817,530,tianjin
+transfer_tianjin_seed37_n1000,transfer,Agricultural,Urban-TabM-CMCR,0.7453874538745388,0.9439252336448598,0.8329896907216495,428,tianjin

@@ -1,0 +1,40 @@
+{
+  "hea_loss": {
+    "lambda_f1": 0.05,
+    "lambda_fine": 3.0,
+    "lambda_region_max_gradient_reversal": 0.005,
+    "lambda_mask": 0.15,
+    "lambda_consistency": 0.1,
+    "fine_label_class_weight_exponent": 0.5
+  },
+  "hea_optimization": {
+    "optimizer": "AdamW",
+    "learning_rate": 0.0003,
+    "weight_decay": 0.003,
+    "batch_size": 64,
+    "final_expert_epochs": 150,
+    "inner_oof_expert_epochs": 40,
+    "gradient_clipping_norm": 5,
+    "ple_bins_by_label_budget": {
+      "100": 12,
+      "300": 16,
+      "1000": 16
+    }
+  },
+  "cmcr_router": {
+    "lambda_competence": 0.5,
+    "lambda_prior": 0.005,
+    "competence_target_temperature": 0.5,
+    "residual_mixture_coefficient": 0.5,
+    "route_prior": {
+      "all_source": 0.7,
+      "each_alternative_expert": 0.06
+    },
+    "hidden_width": 32,
+    "dropout": 0.1,
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "epochs": 120
+  }
+}

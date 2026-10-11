@@ -1,0 +1,16 @@
+{
+  "purpose": "competence supervision ablation",
+  "schemes": [
+    "spatial_oof",
+    "in_sample",
+    "random_oof"
+  ],
+  "outer_tasks": 27,
+  "budget": 1000,
+  "inner_folds": 3,
+  "inner_epochs": 40,
+  "router": "identical CMCR gate, competence loss, prior and residual coefficient",
+  "final_experts": "identical frozen six-expert predictions within each outer task",
+  "test_labels_used_for_training_or_model_selection": false,
+  "statistical_unit": "outer spatial fold or held-out region; seeds grouped in final inference"
+}
